@@ -1,4 +1,4 @@
-# template-vanilla
+# template-vanilla-ts
 
 ## Text
 
