@@ -28,7 +28,7 @@
     "prettier": "^3.7.4",
     "typescript": "^5.9.2",
     "vite": "^7.2.7",
-    "vitest": "^4.0.15"
+    "vitest": "^4.0.17"
   },
   "prettier": {
     "singleQuote": true
